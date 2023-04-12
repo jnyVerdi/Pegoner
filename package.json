@@ -1,0 +1,26 @@
+{
+  "name": "pegoner",
+  "version": "1.0.0",
+  "description": "Pegoner is an Arabic typing assistant. It supports Harakat, Symbols, English, Arabic Numbers, and Farsi. It also allows users to customize their style, letter pair, and context-specific language. Pegoner is created to help user to write Arabic text easily and correctly without having proficiency in Arab.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnyVerdi/Pegoner.git"
+  },
+  "keywords": [
+    "Arabic",
+    "Latin",
+    "Alphabet",
+    "Unicode",
+    "UTF-8"
+  ],
+  "author": "Jenny Verdi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jnyVerdi/Pegoner/issues"
+  },
+  "homepage": "https://github.com/jnyVerdi/Pegoner#readme"
+}
